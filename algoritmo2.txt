@@ -1,0 +1,7 @@
+leia lista de números
+leia tamanho_lista
+soma = 0
+para cada elemento da lista faça:
+soma = elemento + soma
+média = soma/tamanho_lista
+escreva média
