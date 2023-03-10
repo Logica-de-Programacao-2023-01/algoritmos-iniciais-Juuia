@@ -1,0 +1,5 @@
+leia A
+leia B 
+se A + B = var entâo
+escreva var
+
